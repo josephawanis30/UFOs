@@ -9,6 +9,7 @@ table form with filtering by date, city, state, country, and shape.
 Dana would be able to pull UFO sightings from all over, Dana would be able to pull info for her own
 curiosity and fun or maybe creating a conspiracy theories.  
 
+![image](https://user-images.githubusercontent.com/94503395/158709121-bf03aeb9-0ab3-4850-8e42-434cc8072d4f.png)
 
 
 ## Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development.
